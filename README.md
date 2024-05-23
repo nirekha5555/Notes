@@ -1,1 +1,2 @@
-sql ,python,data science notes
+sql ,
+python,data science notes

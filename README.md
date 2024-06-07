@@ -6,5 +6,3 @@ data science notes
 
 
 
-
-

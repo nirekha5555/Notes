@@ -3,5 +3,3 @@ python notes
 data science notes
 
 
-
-
